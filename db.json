@@ -1,0 +1,20 @@
+{
+  "cruds": [
+    {
+      "id": "2",
+      "name": "Registro Rojo",
+      "color": "red"
+    },
+    {
+      "id": "3",
+      "name": "Registro Editable",
+      "color": "green"
+    },
+    {
+      "name": "Mario",
+      "color": "green",
+      "id": "qvL2q06DwXY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

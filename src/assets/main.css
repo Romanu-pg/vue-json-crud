@@ -1,0 +1,15 @@
+@import './base.css';
+
+body {
+  background: #f6f7fb;
+}
+
+button,
+input,
+select {
+  letter-spacing: 0;
+}
+
+#app {
+  min-height: 100vh;
+}
